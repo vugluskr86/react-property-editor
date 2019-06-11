@@ -1,5 +1,5 @@
 import React, {PropTypes} from 'react';
-import ColorPicker from 'react-colors-picker';
+import ColorPicker from 'rc-color-picker';
 import EmptyValue from '../utils/EmptyValue';
 
 const DEFAULT_COLOR = "#ff0a0a";

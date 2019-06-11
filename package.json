@@ -17,6 +17,7 @@
     "lodash": "^3.10.1",
     "rc-color-picker": "^1.2.6",
     "react-codemirror": "^1.0.0",
+    "react-dom": "^16.8.6",
     "react-gradient-color-picker": "git+https://github.com/vugluskr86/react-gradient-color-picker.git",
     "react-json-fork": "https://github.com/vugluskr86/react-json.git",
     "react-overlays": "^1.2.0",
